@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Country": "India",
+    "City": "Delhi",
+    "Population": "167175759759",
+    "email": "india@email.com"
+
+  },
+  {
+    "id": 2,
+    "Country": "us",
+    "City": "chicago",
+    "Population": "0112117516",
+    "email": "indian@email.com"
+  },
+  {
+    "id": 3,
+    "Country": "nepal",
+    "City": "khatmandu",
+    "Population": "7889627516",
+    "email": "nepal@email.com"
+  },
+  {
+    "id": 4,
+    "Country": "newzealand",
+    "City": "auckland",
+    "Population": "86532568",
+    "email": "newzealand@email.com"
+  },
+  {
+    "id": 5,
+    "Country": "uk",
+    "City": "london",
+    "Population": "58686447",
+    "email": "london@email.com"
+  }
+]
